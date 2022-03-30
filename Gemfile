@@ -2,10 +2,11 @@
 
 source 'https://rubygems.org'
 
-gem 'rake'
-gem 'pg'
+gem 'dotenv'
+gem 'pg' # for postgres
 gem 'pry'
 gem 'puma'
+gem 'rake' # so we can run rake task
 gem 'sinatra'
-gem 'sinatra-activerecord'
+gem 'sinatra-activerecord'  #foa active models
 gem 'sinatra-contrib'
