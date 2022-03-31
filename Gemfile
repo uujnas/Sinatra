@@ -7,6 +7,7 @@ gem 'pg' # for postgres
 gem 'pry'
 gem 'puma'
 gem 'rake' # so we can run rake task
+gem 'rubocop'
 gem 'sinatra'
-gem 'sinatra-activerecord'  #foa active models
+gem 'sinatra-activerecord'  # for active models
 gem 'sinatra-contrib'
