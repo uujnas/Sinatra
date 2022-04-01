@@ -109,4 +109,3 @@ This command will load your app.rb file.<br>
 If it is loaded successfully return true otherwise fasle.<br>
 If everyhing is going well enjoy working in console.<br><br>
 ![Operation performed through console](https://user-images.githubusercontent.com/53853226/161198403-92c8fd48-6a3d-4ae9-b068-91dbddd120cd.png)
-
