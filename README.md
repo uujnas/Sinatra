@@ -97,3 +97,16 @@ In database.yml file add
 
     Don't forget to `rake db:seed` in the terminal.<br>
     source: [seed file](https://github.com/sf-wdi-gaia/sinatra-app-seed)
+
+### Using Console in Sinatra
+You may have use irb(Interacive Ruby) to explore Ruby programming language and try out code without creating a file.<br>
+Sinatra is ruby gems. So, you can simply use command irb in your command line interface.<br>
+`irb`<br>
+The prompt indicates running irb and anything you exectute will run in he context.<br>
+
+`require './app.rb'`
+This command will load your app.rb file.<br>
+If it is loaded successfully return true otherwise fasle.<br>
+If everyhing is going well enjoy working in console.<br><br>
+![Operation performed through console](https://user-images.githubusercontent.com/53853226/161198403-92c8fd48-6a3d-4ae9-b068-91dbddd120cd.png)
+
